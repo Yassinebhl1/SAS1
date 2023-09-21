@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695328201 source:c:\users\administrator\desktop\sas\sas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
